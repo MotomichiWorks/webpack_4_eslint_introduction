@@ -1,0 +1,23 @@
+{
+  "name": "webpack_4_eslint_introduction",
+  "version": "1.0.0",
+  "description": "webpack4でビルドする前にeslintでの構文チェックを導入するサンプルです",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MotomichiWorks/webpack_4_eslint_introduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MotomichiWorks/webpack_4_eslint_introduction/issues"
+  },
+  "homepage": "https://github.com/MotomichiWorks/webpack_4_eslint_introduction#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-loader": "^2.0.0"
+  }
+}
