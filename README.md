@@ -1,0 +1,2 @@
+# webpack_4_eslint_introduction
+webpack4でビルドする前にeslintでの構文チェックを導入するサンプルです
